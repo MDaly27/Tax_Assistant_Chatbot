@@ -4,12 +4,10 @@ An AI-powered chatbot designed to assist with personal and business tax-related 
 
 ## Example Usage
 
-### Question about Tax Brackets for Individual Income:
-
 **User:**
-Can you explain the tax brackets for individual income in the US?
+I make $120,000 per year in the US. How much will I pay in income tax?
 
-**AI Response:**
+**AI:**
 To calculate the approximate income tax, we'll use the 2021 tax brackets for married couples filing jointly:
 - 10% on the first $19,900
 - 12% on income between $19,901 and $81,050
@@ -21,8 +19,6 @@ For a $120,000 income, the tax calculation would be as follows:
 - 22% on ($120,000 - $81,051): $8,714.98
 
 Summing these amounts gives a total approximate income tax liability of $18,192.86. Please note that this is a simplified calculation, and individual circumstances may affect the actual amount. For precise results, you may want to consult with a tax professional.
-
-### Question about Business Structure:
 
 **User:**
 I would like to start a business, would I pay less tax filing as a partnership or a corporation?
