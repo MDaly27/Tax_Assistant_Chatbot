@@ -1,0 +1,99 @@
+Individual Income Tax Regulations (2021 Tax Year):
+Tax Brackets:
+
+10%: Applies to taxable income up to $9,950 for single filers, up to $19,900 for married filing jointly.
+12%: Applies to taxable income from $9,951 to $40,525 for single filers, $19,901 to $81,050 for married filing jointly.
+22%: Applies to taxable income from $40,526 to $86,375 for single filers, $81,051 to $172,750 for married filing jointly.
+24%: Applies to taxable income from $86,376 to $164,925 for single filers, $172,751 to $329,850 for married filing jointly.
+32%: Applies to taxable income from $164,926 to $209,425 for single filers, $329,851 to $418,850 for married filing jointly.
+35%: Applies to taxable income from $209,426 to $523,600 for single filers, $418,851 to $628,300 for married filing jointly.
+37%: Applies to taxable income over $523,600 for single filers, over $628,300 for married filing jointly.
+Standard Deduction (2021 Tax Year):
+
+Single: $12,550
+Married Filing Jointly: $25,100
+Head of Household: $18,800
+Filing Status:
+
+Single: This status applies to individuals who are not married or are legally separated.
+Married Filing Jointly: For couples who are married and want to combine their income and deductions on one tax return.
+Head of Household: Available for individuals who are unmarried and provide a home for a qualifying person.
+Married Filing Separately: Each spouse files a separate tax return.
+Qualifying Widow(er) with Dependent Child: Applies to a surviving spouse with a dependent child.
+Income Levels (2021 Tax Year):
+
+The 10% bracket applies to the first $9,950 of taxable income for single filers, $19,900 for married filing jointly.
+The 12% bracket applies to income above $9,950 up to $40,525 for single filers, $19,901 to $81,050 for married filing jointly, and so on.
+Additional Taxes and Credits:
+
+Capital Gains and Dividends: Different tax rates (0%, 15%, or 20%) may apply based on income levels.
+Child Tax Credit: Provides a credit of up to $2,000 per qualifying child.
+Earned Income Tax Credit (EITC): Available for low to moderate-income individuals and families.
+
+___________________________________________________________________________________________________________________________________________
+Business Income Tax Regulations (2021 Tax Year):
+Entity Types and Tax Rates:
+
+Sole Proprietorship:
+
+Business Income Tax: Taxed at the individual owner's income tax rate.
+Individual Tax Rates (2021):
+10% to 37% based on taxable income.
+Partnership:
+
+Business Income Tax: Passed through to partners' individual tax returns.
+Individual Tax Rates (2021):
+10% to 37% based on taxable income.
+C Corporation:
+
+Corporate Income Tax: 21% flat rate on taxable income.
+Dividend Tax for Shareholders: Shareholders pay tax on dividends at their individual tax rates.
+Individual Tax Rates (2021):
+10% to 37% based on taxable income.
+S Corporation:
+
+Business Income Tax: Passed through to shareholders' individual tax returns.
+Individual Tax Rates (2021):
+10% to 37% based on taxable income.
+Qualified Business Income Deduction (QBI): Shareholders may be eligible for a deduction of up to 20% of qualified business income, subject to limitations.
+Limited Liability Company (LLC):
+
+Taxed based on the chosen structure:
+Single-Member LLC: Taxed as a sole proprietorship.
+Multi-Member LLC: Taxed as a partnership or corporation based on elections.
+Deductions and Credits for Businesses:
+
+Business Expenses Deductions:
+
+Deductible business expenses include salaries, rent, utilities, and other costs necessary for operation.
+Depreciation:
+
+Businesses can deduct the cost of certain assets over time using methods like Modified Accelerated Cost Recovery System (MACRS).
+Tax Credits:
+
+Research and Development (R&D) Tax Credit, Work Opportunity Tax Credit, and other industry-specific credits may be available.
+Employment Taxes:
+
+Payroll Taxes:
+
+Employers must withhold and pay Social Security (12.4%) and Medicare (2.9%) taxes for employees.
+Additional Medicare tax (0.9%) on wages exceeding $200,000 for individuals or $250,000 for married couples filing jointly.
+Unemployment Taxes:
+
+Federal Unemployment Tax Act (FUTA) tax on the first $7,000 of wages per employee.
+Estimated Taxes:
+
+Quarterly Payments:
+Businesses may need to estimate and pay quarterly income taxes based on expected annual income.
+Sales Tax:
+
+Collection and Remittance:
+Businesses may be required to collect and remit sales tax on goods and services sold, depending on state and local regulations.
+Tax Filing Deadlines:
+
+C Corporations (Form 1120):
+
+Generally due on the 15th day of the 4th month after the end of the tax year.
+S Corporations and Partnerships (Form 1120S or Form 1065):
+
+Generally due on the 15th day of the 3rd month after the end of the tax year.
