@@ -5,7 +5,7 @@ An AI-powered chatbot designed to assist with personal and business tax-related 
 ## Example Usage
 
 **User:**
-I make $120,000 per year in the US. How much will I pay in income tax?
+I am married and make $120,000 per year in the US. How much will I pay in income tax?
 
 **AI:**
 To calculate the approximate income tax, we'll use the 2021 tax brackets for married couples filing jointly:
